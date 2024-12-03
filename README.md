@@ -5,9 +5,9 @@
 - ⚡ My favorite games are **Pokémon** and **Super Smash Bros** 😁
 
 ### Knowledge Bag
-| WEB        | Desktop    |
+| Desktop    | WEB        |
 |:----------:|:----------:|
-| JavaScript | Java       |
-| HTML / CSS | C++        |
-| PHP        | C#         |
-             | Scala      |
+| Java       | JavaScript |
+| C++        | HTML / CSS |
+| C#         | PHP        |
+| Scala      | -          |
