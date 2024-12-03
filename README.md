@@ -10,3 +10,4 @@
 | JavaScript | Java       |
 | HTML / CSS | C++        |
 | PHP        | C#         |
+             | Scala      |
